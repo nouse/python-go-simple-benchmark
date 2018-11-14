@@ -11,6 +11,7 @@ Environment: Linux Kernel 4.18.0.2, CPU i5-7300U
 - Python3: 52.30K
 - PyPy3: 217.84K
 - Cython: 719.92K
+- TruffleRuby: 56.74K
 
 ## Integer Implementation
 
@@ -19,3 +20,4 @@ Environment: Linux Kernel 4.18.0.2, CPU i5-7300U
 - PyPy3: 556.40K
 - Numba: 7004.1K
 - Cython: 10503.2K
+- TruffleRuby: 4468K
